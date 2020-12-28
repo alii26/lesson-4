@@ -900,7 +900,7 @@
     color: white;
 }
 .end{
-    position: sticky;
+    position: absolute;
     background-color: #000000;
     width: 1349px;
     height: 101px;
